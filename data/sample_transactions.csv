@@ -1,0 +1,58 @@
+transaction_id,transaction_date,amount,state,city,item_category,tax_paid
+TXN-001,2024-01-05,1250.00,TX,Houston,electronics,103.13
+TXN-002,2024-01-08,89.99,CA,Los Angeles,clothing,8.55
+TXN-003,2024-01-10,450.00,NY,New York City,electronics,40.05
+TXN-004,2024-01-12,32.50,FL,Miami,grocery,0.00
+TXN-005,2024-01-15,2100.00,TX,Dallas,manufacturing,173.25
+TXN-006,2024-01-18,175.00,PA,Philadelphia,clothing,0.00
+TXN-007,2024-01-20,520.00,IL,Chicago,electronics,57.46
+TXN-008,2024-01-22,64.00,WA,Seattle,grocery,0.00
+TXN-009,2024-01-25,890.00,GA,Atlanta,electronics,65.42
+TXN-010,2024-01-28,310.00,NJ,,clothing,0.00
+TXN-011,2024-02-01,1500.00,CA,San Francisco,software,135.00
+TXN-012,2024-02-04,42.00,OR,,electronics,0.00
+TXN-013,2024-02-06,780.00,TX,Austin,electronics,64.35
+TXN-014,2024-02-09,125.00,MA,,clothing,0.00
+TXN-015,2024-02-12,3200.00,NY,New York City,electronics,272.00
+TXN-016,2024-02-14,55.00,FL,Tampa,prescription,0.00
+TXN-017,2024-02-17,430.00,OH,Columbus,electronics,32.25
+TXN-018,2024-02-19,1100.00,WA,Seattle,electronics,113.85
+TXN-019,2024-02-22,200.00,MN,Minneapolis,clothing,0.00
+TXN-020,2024-02-25,670.00,NC,Charlotte,electronics,48.22
+TXN-021,2024-03-01,95.00,DE,,electronics,0.00
+TXN-022,2024-03-04,1800.00,CA,San Diego,electronics,144.00
+TXN-023,2024-03-07,340.00,TX,San Antonio,grocery,0.00
+TXN-024,2024-03-10,720.00,IL,Chicago,electronics,79.56
+TXN-025,2024-03-12,480.00,GA,Savannah,electronics,38.40
+TXN-026,2024-03-15,150.00,NH,,electronics,0.00
+TXN-027,2024-03-18,2500.00,NY,New York City,electronics,212.50
+TXN-028,2024-03-20,85.00,FL,Orlando,medical,0.00
+TXN-029,2024-03-23,960.00,PA,Pittsburgh,electronics,67.20
+TXN-030,2024-03-26,1350.00,WA,Spokane,electronics,120.15
+TXN-031,2024-04-02,275.00,CO,Denver,electronics,21.33
+TXN-032,2024-04-05,4500.00,TX,Houston,electronics,371.25
+TXN-033,2024-04-08,190.00,AZ,Phoenix,grocery,0.00
+TXN-034,2024-04-11,830.00,VA,Richmond,electronics,47.72
+TXN-035,2024-04-14,1200.00,CA,Sacramento,electronics,96.00
+TXN-036,2024-04-17,65.00,MT,,electronics,0.00
+TXN-037,2024-04-20,560.00,MI,,electronics,33.60
+TXN-038,2024-04-22,2200.00,NY,New York City,electronics,192.50
+TXN-039,2024-04-25,145.00,SC,Charleston,electronics,12.33
+TXN-040,2024-04-28,780.00,TN,Nashville,electronics,72.54
+TXN-041,2024-05-02,420.00,NV,Las Vegas,electronics,34.44
+TXN-042,2024-05-05,3100.00,CA,San Jose,electronics,279.00
+TXN-043,2024-05-08,88.00,CT,,grocery,0.00
+TXN-044,2024-05-11,650.00,IN,,electronics,45.50
+TXN-045,2024-05-14,1750.00,TX,Fort Worth,electronics,144.38
+TXN-046,2024-05-17,380.00,MO,Kansas City,electronics,31.35
+TXN-047,2024-05-20,210.00,WI,Milwaukee,electronics,14.21
+TXN-048,2024-05-23,920.00,AL,Birmingham,electronics,73.60
+TXN-049,2024-05-26,1400.00,FL,Jacksonville,electronics,91.70
+TXN-050,2024-05-29,500.00,MD,,electronics,30.00
+TXN-051,2024-06-01,2800.00,CA,Los Angeles,electronics,266.00
+TXN-052,2024-06-04,175.00,LA,New Orleans,electronics,16.54
+TXN-053,2024-06-07,1100.00,NY,Buffalo,electronics,88.00
+TXN-054,2024-06-10,330.00,KY,,electronics,19.80
+TXN-055,2024-06-13,4200.00,TX,Dallas,electronics,346.50
+TXN-056,2024-06-16,92.00,RI,,clothing,0.00
+TXN-057,2024-06-19,740.00,NE,Omaha,electronics,55.50
