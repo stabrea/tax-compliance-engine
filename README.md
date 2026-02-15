@@ -1,3 +1,5 @@
+![CI](https://github.com/stabrea/tax-compliance-engine/actions/workflows/ci.yml/badge.svg)
+
 # Tax Compliance Engine
 
 A sales tax compliance automation tool built from hands-on experience preparing multi-state sales tax returns, filing refund claims, and supporting audit responses as a Tax Associate Intern.
