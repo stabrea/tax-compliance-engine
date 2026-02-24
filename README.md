@@ -32,7 +32,7 @@ Local rate data included for 60+ major cities across all states with local tax a
 ## Installation
 
 ```bash
-git clone https://github.com/taofikbishi/tax-compliance-engine.git
+git clone https://github.com/stabrea/tax-compliance-engine.git
 cd tax-compliance-engine
 pip install -r requirements.txt
 ```
